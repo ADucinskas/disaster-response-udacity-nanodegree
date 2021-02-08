@@ -3,7 +3,7 @@
 ## Table of contents
 
 1. [Project Description](#project-description)
-2. [Example2](#example2)
+2. [Packages needed](#packages-needed)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
@@ -19,7 +19,14 @@ The project was divided into 3 separate sections:
 
 
 
-## Example2
+## Packages needed
+In this project the following dependencies are used:
+- Python 3.5+
+- ETL librariess: Pandas, Numpy, SQLalchemy
+- ML libraties: Scikit-Learn, NLTK
+- Model saving and loading: pickle
+- Web aoo: Plotly, FLask
+
 ## Third Example
 ## Fourth Example (http://www.fourthexample.com) 
 
