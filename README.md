@@ -42,3 +42,7 @@ In this project the following dependencies are used:
 
 3. Go to http://0.0.0.0:3001/
 
+## Acknowledgement
+
+- UDACITY for Datascience Nanodegree program
+- Figure Eight for providing data
