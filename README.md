@@ -4,7 +4,7 @@
 
 1. [Project Description](#project-description)
 2. [Packages needed](#packages-needed)
-3. [Third Example](#third-example)
+3. [Instructions](#instructions)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
@@ -25,12 +25,10 @@ In this project the following dependencies are used:
 - ETL librariess: Pandas, Numpy, SQLalchemy
 - ML libraties: Scikit-Learn, NLTK
 - Model saving and loading: pickle
-- Web aoo: Plotly, FLask
+- Web app: Plotly, FLask
 
-## Third Example
-## Fourth Example (http://www.fourthexample.com) 
 
-### Instructions:
+## Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
@@ -43,3 +41,4 @@ In this project the following dependencies are used:
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
