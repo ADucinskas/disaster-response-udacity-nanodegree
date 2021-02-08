@@ -9,6 +9,16 @@
 
 
 ## Project Description
+
+This project is part of UDACITY Data Science Nanodegree Program. The dataset of this project contains aballed messasges and it is provided by Figure Eight company.It this project the main goal is to build NLP machine learning model which will be used for the future message classification.
+
+The project was divided into 3 separate sections:
+ - Data preparation step. ETL pipeline was used to prepare data for the next step.
+ - Build ML model for message classification
+ - Run a web app which can show model results in real time
+
+
+
 ## Example2
 ## Third Example
 ## Fourth Example (http://www.fourthexample.com) 
