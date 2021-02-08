@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-1. [Project Description](#project description)
+1. [Project Description](#project-description)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
