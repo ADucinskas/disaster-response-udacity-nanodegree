@@ -25,7 +25,7 @@ In this project the following dependencies are used:
 - ETL librariess: Pandas, Numpy, SQLalchemy
 - ML libraties: Scikit-Learn, NLTK
 - Model saving and loading: pickle
-- Web app: Plotly, FLask
+- Web app: Plotly, FLask.
 
 
 ## Instructions:
